@@ -1,0 +1,46 @@
+.title {
+    text-align: center;
+	font-size: 40px;
+	color: black;
+	text-decoration: underline;
+
+}
+
+body{
+    background-color: #3399FF;
+    text-align: center;
+
+}
+
+h1, h2{
+    text-decoration: underline;
+}
+
+.filters{
+	margin-top: 30px;
+	
+}
+
+
+div{
+    padding-bottom: 10px;
+    
+}
+
+
+#addTask{
+	width: 200px;
+    text-align: center;
+    background: lightgrey;
+    padding: 20px;
+    margin: auto;
+}
+
+table{
+	background: #c8bcac;
+	padding: 20px;
+	margin: auto;
+}
+a{
+	text-decoration: none;
+}
